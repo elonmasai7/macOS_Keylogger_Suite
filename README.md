@@ -1,6 +1,6 @@
 # macOS Keylogger Suite - Professional System Monitoring
 
-![macOS Keylogger Suite Banner](https://repository-images.githubusercontent.com/123456789/abcdef00-1111-2222-3333-444444444444)  
+
 *Advanced system monitoring for macOS - Security, Compliance, and Insight*
 
 ## Next-Generation System Monitoring
